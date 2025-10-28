@@ -1,0 +1,8 @@
+view\Menu1.class
+model\Course.class
+model\OnlineCourse.class
+controller\CourseManager.class
+validator\Validator.class
+view\Menu.class
+model\OfflineCourse.class
+controller\Main.class
